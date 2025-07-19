@@ -89,9 +89,12 @@ const Footer = () => {
         </div>
 
         {/* === Footer Bottom Info (Copyright) === */}
-        <div className="flex flex-col md:flex-row items-center justify-between mt-12 pt-8 border-t border-gray-200 text-sm text-gray-500 gap-4 text-center md:text-left">
+        <div className="flex flex-col  items-center justify-between mt-12 pt-8 border-t border-gray-200 text-sm text-gray-500 gap-4 text-center md:text-left">
           <p>&copy; {new Date().getFullYear()} ScaleEdge Studio. All rights reserved.</p>
-          <p>Created by Aditi</p>
+          
+           <p>Created by Krishna😊</p>
+          
+          
         </div>
       </div>
     </footer>
