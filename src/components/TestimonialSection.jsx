@@ -11,37 +11,37 @@ import "swiper/css/pagination";
 const testimonials = [
   {
     id: 1,
-    name: "Krishna Yadav",
+    name: "Krishna",
     image: "https://randomuser.me/api/portraits/men/77.jpg",
     text: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia...",
   },
   {
     id: 2,
-    name: "Aditi Verma",
+    name: "Aditi",
     image: "https://randomuser.me/api/portraits/women/90.jpg",
     text: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia...",
   },
   {
     id: 3,
-    name: "Rowhan Smith",
+    name: "Pranjal",
     image: "https://randomuser.me/api/portraits/men/90.jpg",
     text: "When she reached the first hills of the Mountains, she had a last view back...",
   },
   {
     id: 4,
-    name: "Sarah Johnson",
+    name: "Ananya",
     image: "https://randomuser.me/api/portraits/women/45.jpg",
     text: "The customer service has been exceptional. They went above and beyond...",
   },
   {
     id: 5,
-    name: "Michael Uday",
+    name: "Uday",
     image: "https://randomuser.me/api/portraits/men/32.jpg",
     text: "I've been using their services for over a year now and couldn't be happier...",
   },
   {
     id: 6,
-    name: "Emma Wilson",
+    name: "Vidhi",
     image: "https://randomuser.me/api/portraits/women/28.jpg",
     text: "What impressed me most was how quickly they responded to my requests...",
   },
